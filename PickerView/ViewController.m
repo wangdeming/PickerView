@@ -7,8 +7,15 @@
 //
 
 #import "ViewController.h"
+#import "FlagField.h"
+#import "BirthdayField.h"
+#import "CityField.h"
 
-@interface ViewController ()
+@interface ViewController ()<UITextFieldDelegate>
+
+@property (weak, nonatomic) IBOutlet FlagField *flagField;
+@property (weak, nonatomic) IBOutlet BirthdayField *birthdayField;
+@property (weak, nonatomic) IBOutlet CityField *cityField;
 
 @end
 
@@ -16,13 +23,24 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    
+    _flagField.delegate = self;
+    _birthdayField.delegate = self;
 }
 
+#pragma mark - UITextFieldDelegate
+// 是否允许用户输入文字
+// 拦截用户的输入
+- (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string
+{
+    return NO;
+}
 
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+// 文本框开始编辑的时候调用
+- (void)textFieldDidBeginEditing:(id)textField
+{
+    
+    
 }
 
 

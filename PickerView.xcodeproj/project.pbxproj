@@ -15,6 +15,29 @@
 		98600C661EB0439F009F7996 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98600C641EB0439F009F7996 /* LaunchScreen.storyboard */; };
 		98600C711EB0439F009F7996 /* PickerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600C701EB0439F009F7996 /* PickerViewTests.m */; };
 		98600C7C1EB0439F009F7996 /* PickerViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600C7B1EB0439F009F7996 /* PickerViewUITests.m */; };
+		98600C9D1EB04444009F7996 /* provinces.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98600C8B1EB04443009F7996 /* provinces.plist */; };
+		98600C9E1EB04444009F7996 /* flags.plist in Resources */ = {isa = PBXBuildFile; fileRef = 98600C8D1EB04443009F7996 /* flags.plist */; };
+		98600C9F1EB04444009F7996 /* agt.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C8F1EB04443009F7996 /* agt.gif */; };
+		98600CA01EB04444009F7996 /* baxi.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C901EB04443009F7996 /* baxi.gif */; };
+		98600CA11EB04444009F7996 /* deguo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C911EB04443009F7996 /* deguo.gif */; };
+		98600CA21EB04444009F7996 /* faguo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C921EB04443009F7996 /* faguo.gif */; };
+		98600CA31EB04444009F7996 /* hanguo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C931EB04443009F7996 /* hanguo.gif */; };
+		98600CA41EB04444009F7996 /* helan.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C941EB04443009F7996 /* helan.gif */; };
+		98600CA51EB04444009F7996 /* putaoya.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C951EB04443009F7996 /* putaoya.gif */; };
+		98600CA61EB04444009F7996 /* ruidian.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C961EB04443009F7996 /* ruidian.gif */; };
+		98600CA71EB04444009F7996 /* ruishi.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C971EB04443009F7996 /* ruishi.gif */; };
+		98600CA81EB04444009F7996 /* wlgui.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C981EB04443009F7996 /* wlgui.gif */; };
+		98600CA91EB04444009F7996 /* xiby.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C991EB04443009F7996 /* xiby.gif */; };
+		98600CAA1EB04444009F7996 /* ydl.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C9A1EB04443009F7996 /* ydl.gif */; };
+		98600CAB1EB04444009F7996 /* ying.gif in Resources */ = {isa = PBXBuildFile; fileRef = 98600C9B1EB04443009F7996 /* ying.gif */; };
+		98600CAC1EB04444009F7996 /* zhongguo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 98600C9C1EB04443009F7996 /* zhongguo.jpg */; };
+		98600CAF1EB04A97009F7996 /* Flag.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CAE1EB04A97009F7996 /* Flag.m */; };
+		98600CB21EB04D04009F7996 /* FlagView.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CB11EB04D04009F7996 /* FlagView.m */; };
+		98600CB41EB04D4C009F7996 /* FlagView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 98600CB31EB04D4C009F7996 /* FlagView.xib */; };
+		98600CB71EB06754009F7996 /* FlagField.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CB61EB06754009F7996 /* FlagField.m */; };
+		98600CBA1EB07547009F7996 /* BirthdayField.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CB91EB07547009F7996 /* BirthdayField.m */; };
+		98600CBD1EB077DC009F7996 /* Province.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CBC1EB077DC009F7996 /* Province.m */; };
+		98600CC01EB07879009F7996 /* CityField.m in Sources */ = {isa = PBXBuildFile; fileRef = 98600CBF1EB07879009F7996 /* CityField.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +74,35 @@
 		98600C771EB0439F009F7996 /* PickerViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PickerViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98600C7B1EB0439F009F7996 /* PickerViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewUITests.m; sourceTree = "<group>"; };
 		98600C7D1EB0439F009F7996 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98600C8B1EB04443009F7996 /* provinces.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = provinces.plist; sourceTree = "<group>"; };
+		98600C8D1EB04443009F7996 /* flags.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = flags.plist; sourceTree = "<group>"; };
+		98600C8F1EB04443009F7996 /* agt.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = agt.gif; sourceTree = "<group>"; };
+		98600C901EB04443009F7996 /* baxi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = baxi.gif; sourceTree = "<group>"; };
+		98600C911EB04443009F7996 /* deguo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = deguo.gif; sourceTree = "<group>"; };
+		98600C921EB04443009F7996 /* faguo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = faguo.gif; sourceTree = "<group>"; };
+		98600C931EB04443009F7996 /* hanguo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hanguo.gif; sourceTree = "<group>"; };
+		98600C941EB04443009F7996 /* helan.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = helan.gif; sourceTree = "<group>"; };
+		98600C951EB04443009F7996 /* putaoya.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = putaoya.gif; sourceTree = "<group>"; };
+		98600C961EB04443009F7996 /* ruidian.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ruidian.gif; sourceTree = "<group>"; };
+		98600C971EB04443009F7996 /* ruishi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ruishi.gif; sourceTree = "<group>"; };
+		98600C981EB04443009F7996 /* wlgui.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wlgui.gif; sourceTree = "<group>"; };
+		98600C991EB04443009F7996 /* xiby.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = xiby.gif; sourceTree = "<group>"; };
+		98600C9A1EB04443009F7996 /* ydl.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ydl.gif; sourceTree = "<group>"; };
+		98600C9B1EB04443009F7996 /* ying.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = ying.gif; sourceTree = "<group>"; };
+		98600C9C1EB04443009F7996 /* zhongguo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zhongguo.jpg; sourceTree = "<group>"; };
+		98600CAD1EB04A97009F7996 /* Flag.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Flag.h; sourceTree = "<group>"; };
+		98600CAE1EB04A97009F7996 /* Flag.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Flag.m; sourceTree = "<group>"; };
+		98600CB01EB04D04009F7996 /* FlagView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlagView.h; sourceTree = "<group>"; };
+		98600CB11EB04D04009F7996 /* FlagView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlagView.m; sourceTree = "<group>"; };
+		98600CB31EB04D4C009F7996 /* FlagView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = FlagView.xib; sourceTree = "<group>"; };
+		98600CB51EB06754009F7996 /* FlagField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlagField.h; sourceTree = "<group>"; };
+		98600CB61EB06754009F7996 /* FlagField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlagField.m; sourceTree = "<group>"; };
+		98600CB81EB07547009F7996 /* BirthdayField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BirthdayField.h; sourceTree = "<group>"; };
+		98600CB91EB07547009F7996 /* BirthdayField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BirthdayField.m; sourceTree = "<group>"; };
+		98600CBB1EB077DC009F7996 /* Province.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Province.h; sourceTree = "<group>"; };
+		98600CBC1EB077DC009F7996 /* Province.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Province.m; sourceTree = "<group>"; };
+		98600CBE1EB07879009F7996 /* CityField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CityField.h; sourceTree = "<group>"; };
+		98600CBF1EB07879009F7996 /* CityField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CityField.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +153,9 @@
 		98600C551EB0439F009F7996 /* PickerView */ = {
 			isa = PBXGroup;
 			children = (
+				98600C891EB04443009F7996 /* BirthdayField */,
+				98600C8A1EB04443009F7996 /* CityField */,
+				98600C8C1EB04443009F7996 /* FlagField */,
 				98600C591EB0439F009F7996 /* AppDelegate.h */,
 				98600C5A1EB0439F009F7996 /* AppDelegate.m */,
 				98600C5C1EB0439F009F7996 /* ViewController.h */,
@@ -138,6 +193,64 @@
 				98600C7D1EB0439F009F7996 /* Info.plist */,
 			);
 			path = PickerViewUITests;
+			sourceTree = "<group>";
+		};
+		98600C891EB04443009F7996 /* BirthdayField */ = {
+			isa = PBXGroup;
+			children = (
+				98600CB81EB07547009F7996 /* BirthdayField.h */,
+				98600CB91EB07547009F7996 /* BirthdayField.m */,
+			);
+			path = BirthdayField;
+			sourceTree = "<group>";
+		};
+		98600C8A1EB04443009F7996 /* CityField */ = {
+			isa = PBXGroup;
+			children = (
+				98600C8B1EB04443009F7996 /* provinces.plist */,
+				98600CBB1EB077DC009F7996 /* Province.h */,
+				98600CBC1EB077DC009F7996 /* Province.m */,
+				98600CBE1EB07879009F7996 /* CityField.h */,
+				98600CBF1EB07879009F7996 /* CityField.m */,
+			);
+			path = CityField;
+			sourceTree = "<group>";
+		};
+		98600C8C1EB04443009F7996 /* FlagField */ = {
+			isa = PBXGroup;
+			children = (
+				98600C8D1EB04443009F7996 /* flags.plist */,
+				98600C8E1EB04443009F7996 /* guoqi */,
+				98600CAD1EB04A97009F7996 /* Flag.h */,
+				98600CAE1EB04A97009F7996 /* Flag.m */,
+				98600CB01EB04D04009F7996 /* FlagView.h */,
+				98600CB11EB04D04009F7996 /* FlagView.m */,
+				98600CB31EB04D4C009F7996 /* FlagView.xib */,
+				98600CB51EB06754009F7996 /* FlagField.h */,
+				98600CB61EB06754009F7996 /* FlagField.m */,
+			);
+			path = FlagField;
+			sourceTree = "<group>";
+		};
+		98600C8E1EB04443009F7996 /* guoqi */ = {
+			isa = PBXGroup;
+			children = (
+				98600C8F1EB04443009F7996 /* agt.gif */,
+				98600C901EB04443009F7996 /* baxi.gif */,
+				98600C911EB04443009F7996 /* deguo.gif */,
+				98600C921EB04443009F7996 /* faguo.gif */,
+				98600C931EB04443009F7996 /* hanguo.gif */,
+				98600C941EB04443009F7996 /* helan.gif */,
+				98600C951EB04443009F7996 /* putaoya.gif */,
+				98600C961EB04443009F7996 /* ruidian.gif */,
+				98600C971EB04443009F7996 /* ruishi.gif */,
+				98600C981EB04443009F7996 /* wlgui.gif */,
+				98600C991EB04443009F7996 /* xiby.gif */,
+				98600C9A1EB04443009F7996 /* ydl.gif */,
+				98600C9B1EB04443009F7996 /* ying.gif */,
+				98600C9C1EB04443009F7996 /* zhongguo.jpg */,
+			);
+			path = guoqi;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,7 +320,6 @@
 				TargetAttributes = {
 					98600C521EB0439F009F7996 = {
 						CreatedOnToolsVersion = 8.3;
-						DevelopmentTeam = CP3M86SN34;
 						ProvisioningStyle = Automatic;
 					};
 					98600C6B1EB0439F009F7996 = {
@@ -250,8 +362,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				98600C661EB0439F009F7996 /* LaunchScreen.storyboard in Resources */,
+				98600CA11EB04444009F7996 /* deguo.gif in Resources */,
+				98600CB41EB04D4C009F7996 /* FlagView.xib in Resources */,
+				98600CA71EB04444009F7996 /* ruishi.gif in Resources */,
+				98600CA51EB04444009F7996 /* putaoya.gif in Resources */,
+				98600CA61EB04444009F7996 /* ruidian.gif in Resources */,
+				98600CA31EB04444009F7996 /* hanguo.gif in Resources */,
+				98600CA01EB04444009F7996 /* baxi.gif in Resources */,
+				98600CAB1EB04444009F7996 /* ying.gif in Resources */,
+				98600CAC1EB04444009F7996 /* zhongguo.jpg in Resources */,
+				98600CA21EB04444009F7996 /* faguo.gif in Resources */,
+				98600CA91EB04444009F7996 /* xiby.gif in Resources */,
+				98600C9E1EB04444009F7996 /* flags.plist in Resources */,
+				98600CAA1EB04444009F7996 /* ydl.gif in Resources */,
 				98600C631EB0439F009F7996 /* Assets.xcassets in Resources */,
+				98600CA81EB04444009F7996 /* wlgui.gif in Resources */,
+				98600C9F1EB04444009F7996 /* agt.gif in Resources */,
+				98600C9D1EB04444009F7996 /* provinces.plist in Resources */,
 				98600C611EB0439F009F7996 /* Main.storyboard in Resources */,
+				98600CA41EB04444009F7996 /* helan.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,8 +406,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				98600C5E1EB0439F009F7996 /* ViewController.m in Sources */,
+				98600CC01EB07879009F7996 /* CityField.m in Sources */,
 				98600C5B1EB0439F009F7996 /* AppDelegate.m in Sources */,
+				98600CB21EB04D04009F7996 /* FlagView.m in Sources */,
+				98600CBD1EB077DC009F7996 /* Province.m in Sources */,
 				98600C581EB0439F009F7996 /* main.m in Sources */,
+				98600CB71EB06754009F7996 /* FlagField.m in Sources */,
+				98600CBA1EB07547009F7996 /* BirthdayField.m in Sources */,
+				98600CAF1EB04A97009F7996 /* Flag.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,7 +564,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CP3M86SN34;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PickerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Foxconn.PickerView;
@@ -441,7 +576,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = CP3M86SN34;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = PickerView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Foxconn.PickerView;
